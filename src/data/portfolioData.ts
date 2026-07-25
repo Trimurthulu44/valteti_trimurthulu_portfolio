@@ -48,7 +48,7 @@ export const STATS: StatItem[] = [
   },
   {
     id: 'hackathons',
-    value: 5,
+    value: 6,
     suffix: '+ Hackathons',
     label: 'Hackathons Participated',
     subtext: 'SIH, Cognizant, Google & College Innovation',
@@ -651,9 +651,9 @@ export const EDUCATION: EducationItem[] = [
     institution: 'APR School',
     location: 'Bobbili, Andhra Pradesh',
     period: '2012 – 2021',
-    grade: 'Percentage: 97%',
+    grade: 'Percentage: 90%',
     highlights: [
-      'Outstanding academic performance with 97% overall percentage.',
+      'Outstanding academic performance with 90% overall percentage.',
       'Demonstrated foundational excellence in science and analytical mathematics.',
     ],
   },
